@@ -302,3 +302,4 @@ D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj
 D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
 D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
 D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountAPI.yaml

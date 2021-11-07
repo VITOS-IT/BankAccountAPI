@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: accountservicesapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: AccountServicesAPI
+  template:
+    metadata:
+      labels:
+        app: AccountServicesAPI
+    spec:
+      containers:
+      - name: aksg3cr
+        image: aksg3cr.azurecr.io/aksg3cr:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: accountservicesapi
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: AccountServicesAPI

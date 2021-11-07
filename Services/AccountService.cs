@@ -12,7 +12,8 @@ namespace AccountServicesAPI.Services
     public class AccountService
     {
         private readonly AccountContext _context;
-        private string transactonUrl = "http://localhost:41002/api/Transaction/";
+        //private string transactonUrl = "http://localhost:41002/api/Transaction/";
+        private string transactonUrl = "https://banktransactionapi.azurewebsites.net/api/Transaction/";
 
         public AccountService(AccountContext context)
         {
