@@ -1,0 +1,304 @@
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\appsettings.json
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.exe
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.deps.json
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.json
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.dev.json
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.AssemblyReference.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfoInputs.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfo.cs
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CoreCompileInputs.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.Manifest.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.xml
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\scopedcss\bundle\AccountServicesAPI.styles.css
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.RazorTargetAssemblyInfo.cache
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CopyComplete
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
+D:\Kanini Training\October Training\BankingApplication\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.exe
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.deps.json
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.json
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.dev.json
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\ref\AccountServicesAPI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.AssemblyReference.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfo.cs
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.Manifest.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.xml
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\scopedcss\bundle\AccountServicesAPI.styles.css
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CopyComplete
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
+C:\Users\mihai\Desktop\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.exe
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.deps.json
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.json
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.dev.json
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\ref\AccountServicesAPI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.AssemblyReference.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfoInputs.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfo.cs
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.Manifest.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.xml
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\scopedcss\bundle\AccountServicesAPI.styles.css
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
+C:\Users\mihai\source\repos\CourseProject\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\appsettings.json
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.exe
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.deps.json
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.json
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.dev.json
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.AssemblyReference.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfoInputs.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfo.cs
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CoreCompileInputs.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.Manifest.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.xml
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\scopedcss\bundle\AccountServicesAPI.styles.css
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.RazorTargetAssemblyInfo.cache
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CopyComplete
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
+D:\Kanini Training\FinalBankingProject\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\appsettings.json
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.exe
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.deps.json
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.json
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.runtimeconfig.dev.json
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\AccountServicesAPI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.AssemblyReference.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfoInputs.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.AssemblyInfo.cs
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CoreCompileInputs.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.Manifest.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\staticwebassets\AccountServicesAPI.StaticWebAssets.xml
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\scopedcss\bundle\AccountServicesAPI.styles.css
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.RazorTargetAssemblyInfo.cache
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.csproj.CopyComplete
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\ref\AccountServicesAPI.dll
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.pdb
+D:\Participants\Bank\CourseProject (1)\AccountServicesAPI\AccountServicesAPI\obj\Debug\net5.0\AccountServicesAPI.genruntimeconfig.cache
