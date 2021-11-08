@@ -12,8 +12,8 @@ namespace AccountServicesAPI.Services
     public class AccountService
     {
         private readonly AccountContext _context;
-        //private string transactonUrl = "http://localhost:41002/api/Transaction/";
-        private string transactonUrl = "https://banktransactionapi.azurewebsites.net/api/Transaction/";
+        //private string transactionUrl = "http://localhost:41002/api/Transaction/";
+        private string transactionUrl = "https://banktransactionapi.azurewebsites.net/api/Transaction/";
 
         public AccountService(AccountContext context)
         {
@@ -111,15 +111,15 @@ namespace AccountServicesAPI.Services
             return account;
         }
 
-        public List<Statement> GetStatements(int AccId, DateTime FromDate, DateTime ToDate)
+        public List<TransactionDTO> GetStatements(int AccId, DateTime FromDate, DateTime ToDate)
         {
             List<TransactionDTO> AllTransactions = new List<TransactionDTO>();
-            List<Statement> statements = new List<Statement>();
+            List<TransactionDTO> transactions = new List<TransactionDTO>();
             try
             {
                 using (var client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri(transactonUrl);
+                    client.BaseAddress = new Uri(transactionUrl); 
                     var getTask = client.GetAsync("getTransactions/" + AccId);
                     getTask.Wait();
                     var result = getTask.Result;
@@ -136,31 +136,17 @@ namespace AccountServicesAPI.Services
 
                 Console.WriteLine(e.Message);
             }
-            if(AllTransactions.Count != 0)
+            if (AllTransactions.Count != 0)
             {
                 foreach (var item in AllTransactions)
                 {
                     if (item.Date >= FromDate && item.Date <= ToDate)
                     {
-                        Statement statement = new Statement();
-                        statement.Date = item.Date;
-                        statement.Narration = $"{item.AccountId}/{item.Type}/by self";
-                        statement.RefNo = item.TransactionId;
-                        statement.ValueDate = item.Date;
-                        if(item.Type == "Deposit")
-                        {
-                            statement.Deposit = item.Amount;
-                        }
-                        else
-                        {
-                            statement.Withdraw = item.Amount;
-                        }
-                        statement.ClosingBalace = item.AccountBalance;
-                        statements.Add(statement);
+                        transactions.Add(item);
                     }
                 }
             }
-            return statements;
+            return transactions;
         }
 
         public async Task<TransactionStatus> Withdraw(int accId, float amount)
@@ -171,7 +157,7 @@ namespace AccountServicesAPI.Services
             {
                 using (var client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri(transactonUrl);
+                    client.BaseAddress = new Uri(transactionUrl);
                     var postTask = await client.PostAsync($"Withdraw?accId={accId}&amount={amount}", null);
                     if (postTask.IsSuccessStatusCode)
                     {
@@ -200,7 +186,7 @@ namespace AccountServicesAPI.Services
             {
                 using (var client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri(transactonUrl);
+                    client.BaseAddress = new Uri(transactionUrl);
                     var postTask = await client.PostAsync($"Deposit?accountId={accId}&amount={amount}", null);
                     if (postTask.IsSuccessStatusCode)
                     {
@@ -229,7 +215,7 @@ namespace AccountServicesAPI.Services
             {
                 using (var client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri(transactonUrl);
+                    client.BaseAddress = new Uri(transactionUrl);
                     var postTask = await client.PostAsync($"Transfer?sourceAccountId={FromAccId}&targetAccountId={ToAccId}&amount={Amount}", null);
                     if (postTask.IsSuccessStatusCode)
                     {

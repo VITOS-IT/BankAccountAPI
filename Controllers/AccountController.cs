@@ -58,7 +58,7 @@ namespace AccountServicesAPI.Controllers
             return _service.GetAccountsByCustID(id);
         }
         [HttpGet("getAccountStatement")]
-        public IEnumerable<Statement> Transactions(int AccId, DateTime FromDate,DateTime ToDate)
+        public IEnumerable<TransactionDTO> Transactions(int AccId, DateTime FromDate,DateTime ToDate)
         {
             return _service.GetStatements(AccId,FromDate,ToDate);
         }
