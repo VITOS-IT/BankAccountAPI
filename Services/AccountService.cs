@@ -49,8 +49,7 @@ namespace AccountServicesAPI.Services
 
         public Account AddAccount(Account account)
         {
-            List<Account> accounts = GetAccountsByCustID(account.CustomerID);
-            if(accounts == null)
+            if (account != null)
             {
                 Account newAccount = new Account();
                 newAccount.AccountID = account.AccountID;
@@ -61,32 +60,7 @@ namespace AccountServicesAPI.Services
                 _context.SaveChanges();
                 return newAccount;
             }
-            else
-            {
-                int flag = 0;
-                foreach (var item in accounts)
-                {
-                    if(item.AccountType == account.AccountType)
-                    {
-                        flag = 1;
-                    }
-                }
-                if(flag == 0)
-                {
-                    Account newAccount = new Account();
-                    newAccount.AccountID = account.AccountID;
-                    newAccount.AccountType = account.AccountType;
-                    newAccount.CustomerID = account.CustomerID;
-                    newAccount.Balance = account.Balance;
-                    _context.Accounts.Add(newAccount);
-                    _context.SaveChanges();
-                    return newAccount;
-                }
-                else
-                {
-                    return null;
-                }
-            }
+            return null;
         }
 
         public Account EditAccount(int id, Account account)
