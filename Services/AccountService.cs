@@ -114,7 +114,7 @@ namespace AccountServicesAPI.Services
             {
                 foreach (var item in AllTransactions)
                 {
-                    if (item.Date.Date >= FromDate.Date && item.Date.Date <= ToDate.Date+1)
+                    if (item.Date >= FromDate && item.Date <= ToDate || item.Date == FromDate && item.Date == ToDate || item.Date >= FromDate && item.Date == ToDate || item.Date == FromDate && item.Date <= ToDate)
                     {
                         transactions.Add(item);
                     }
